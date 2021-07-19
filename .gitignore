@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Python Juan 
+Referencia.py
+*.results
+hysteresis*
+Tests/
+Referencia1.py
+SortingData.py
+ClarkY/
